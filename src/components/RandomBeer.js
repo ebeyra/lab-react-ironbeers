@@ -13,8 +13,6 @@ const RandomBeer = () => {
       });
   }, []);
 
-  console.log(randomBeer);
-
   return (
     <div>
       <Header />
